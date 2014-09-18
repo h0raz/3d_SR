@@ -19,7 +19,7 @@ two-component glue worked great for me so far, hot glue couldn't hold the magnet
 
 I used two short steel-wire pices to fixate the magnet on top, otherwise it'll be not strong enough to hold it in place  
 a pic tells just more :)
-![magnet explanation] (http://abload.de/img/img_20140917_124625e9uiz.jpg)
+![magnet explanation](http://abload.de/img/img_20140917_124625e9uiz.jpg)
 
 I'll make some pictures the next time we play to show you
 
@@ -28,6 +28,11 @@ pic ;)
 
 Current models in this repository
 (stl as well as sketchup14 files)
+
+The numbered markers are available as well with as without magnet holes(flatter) not sure which is better yet
+For some reason slic3r is unable to slice a "4" and a "5" properly, curaEngine works fine with me though
+
+For some difference i found ![these](www.thingiverse.com/thing:400453) at thingiverse, I like them :)
 
 walls:
 ----
@@ -44,6 +49,7 @@ interior:
 misc:
 ----
  - oil barrel (30mm high)
+ - numbered markers (d 20mm)
 
 have fun and enjoy :) 
 
