@@ -24,7 +24,7 @@ a pic tells just more :)
 I'll make some pictures the next time we play to show you
 
 Here is my current collection
-pic ;)
+![collection](http://abload.de/img/img_20141023_101952_s4ysls.jpg)
 
 Current models in this repository
 (stl as well as sketchup14 files)
@@ -32,7 +32,7 @@ Current models in this repository
 The numbered markers are available as well with as without magnet holes(flatter) not sure which is better yet
 For some reason slic3r is unable to slice a "4" and a "5" properly, curaEngine works fine with me though
 
-For some difference i found ![these](www.thingiverse.com/thing:400453) at thingiverse, I like them :)
+There are some old models in the wall.skp as well, i placed a notice on the actual ones
 
 walls:
 ----
@@ -41,6 +41,7 @@ walls:
  - full cover (30mm high)
  - outer wall of a building (40mm high)
  - outer wall of a building with a window (40mm high)
+ - outer wall half width for doors and openings (40mm high)
 
 interior:
 ----
@@ -51,5 +52,6 @@ misc:
  - oil barrel (30mm high)
  - numbered markers (d 20mm)
 
-have fun and enjoy :) 
+For some difference i found ![these](www.thingiverse.com/thing:400453) at thingiverse, I like them :)
 
+have fun and enjoy :) 
